@@ -11,4 +11,4 @@ eureka:
       defaultZone: http://192.168.82.1:80/eureka/
       
 test:
-  str: Victor
+  str: Victor Onlien
