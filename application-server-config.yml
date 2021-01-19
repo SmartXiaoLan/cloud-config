@@ -1,0 +1,14 @@
+server:
+  port: 81
+
+spring:
+  application:
+    name: hystrixProvider
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://192.168.82.1:80/eureka/
+      
+test:
+  str: Victor
